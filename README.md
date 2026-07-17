@@ -3,6 +3,8 @@
 A Streamlit application for visualising teaching positions and their expected
 monthly workload.
 
+Access it via this link: https://mvmalyi-tutoring-workload-estimator.streamlit.app/
+
 ## Features
 
 * Editable teaching-position table.
