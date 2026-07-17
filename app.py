@@ -46,8 +46,8 @@ DEFAULT_TITLE = "Course Timelines and Monthly Workload Distribution"
 DEFAULT_WORKLOAD_COLOUR = "#7d3c98"
 DEFAULT_FIGURE_WIDTH = 12.0
 DEFAULT_FIGURE_HEIGHT = 10.0
-DEFAULT_DISPLAY_DPI = 900
-DEFAULT_OUTPUT_DPI = 300
+DEFAULT_DISPLAY_DPI = 500
+DEFAULT_OUTPUT_DPI = 500
 
 
 # =============================================================================
