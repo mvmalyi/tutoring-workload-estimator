@@ -20,3 +20,5 @@ Access it via this link: https://mvmalyi-tutoring-workload-estimator.streamlit.a
 Expected hours are distributed uniformly across every calendar day between
 the start and end dates. Both boundary dates are included, and weekdays and
 weekends are treated equally.
+
+<img width="6058" height="5058" alt="sample" src="https://github.com/user-attachments/assets/3d347ec2-c211-49a2-9a5c-7ec8aa1726be" />
